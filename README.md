@@ -2,7 +2,7 @@
   <h1 style="background: linear-gradient(45deg, #0d0e24, #8b5cf6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Olá! Meu Nome é Rodolfo Santiago
   </h1>
-  <p><em>Sempre em busca de aprendizado</em></p>
+  <p><em>Sempre em busca de aprendizados</em></p>
 </div>
 
 <div style="margin: 20px 0; background-color: #1a1b26; padding: 20px; border-radius: 10px; border: 1px solid #2f3342;">
