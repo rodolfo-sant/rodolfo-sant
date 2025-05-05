@@ -1,4 +1,3 @@
-<!-- Header Section -->
 <div align="center">
   <h1 style="background: linear-gradient(45deg, #0d0e24, #8b5cf6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Olá! Meu Nome é Rodolfo Santiago
@@ -6,7 +5,6 @@
   <p><em>Sempre em busca de aprendizado</em></p>
 </div>
 
-<!-- About Me Section -->
 <div style="margin: 20px 0; background-color: #1a1b26; padding: 20px; border-radius: 10px; border: 1px solid #2f3342;">
   <h2 style="color: #7aa2f7;">🧑‍💻 Sobre Mim</h2>
   <ul style="color: #a9b1d6;">
@@ -16,7 +14,6 @@
   </ul>
 </div>
 
-<!-- Skills Section -->
 <div style="margin: 25px 0; background-color: #1a1b26; padding: 20px; border-radius: 10px; border: 1px solid #2f3342;">
   <h2 style="color: #7aa2f7;">🛠️ Habilidades Técnicas</h2>
   
@@ -41,20 +38,18 @@
   </div>
 </div>
 
-<!-- GitHub Stats Section -->
 <div style="margin: 25px 0; background-color: #1a1b26; padding: 20px; border-radius: 10px; border: 1px solid #2f3342;">
   <h2 style="color: #7aa2f7;">📊 GitHub Stats</h2>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&bg_color=1a1b26&border_color=2f3342&icon_color=7aa2f7&title_color=7aa2f7&text_color=a9b1d6" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rodolfo-sant&show_icons=true&theme=tokyonight&bg_color=1a1b26&border_color=2f3342&icon_color=7aa2f7&title_color=7aa2f7&text_color=a9b1d6" alt="GitHub Stats" />
   </div>
   
   <div align="center" style="margin-top: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&bg_color=1a1b26&border_color=2f3342&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-sant&layout=compact&theme=tokyonight&bg_color=1a1b26&border_color=2f3342&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
   </div>
 </div>
 
-<!-- Contact Section -->
 <div style="margin: 25px 0; background-color: #1a1b26; padding: 20px; border-radius: 10px; border: 1px solid #2f3342;">
   <h2 style="color: #7aa2f7;">📫 Entre em Contato</h2>
   
@@ -68,7 +63,6 @@
   </div>
 </div>
 
-<!-- Footer Section -->
 <div align="center" style="margin-top: 30px; padding: 20px; background-color: #1a1b26; border-radius: 10px; border: 1px solid #2f3342;">
   <p style="color: #7aa2f7; font-size: 14px;">Apenas um estudante de Ciência da Computação querendo evoluir cada vez mais como profissional</p>
 </div>
