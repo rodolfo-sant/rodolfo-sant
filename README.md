@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 Sobre Mim
 
-- 🎓 Estudante de Ciência da Computação (P1)  
+- 🎓 Estudante de Ciência da Computação (P2)  
 - 🌱 Tenho 18 anos e começando minha jornada no mundo da programação  
 - 🔭 Atualmente focado em ampliar meus conhecimentos  
 
