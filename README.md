@@ -21,18 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodolfo-sant&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-sant&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Entre em Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodolfo.santiago.ro21@gmail.com)
